@@ -1,0 +1,6 @@
+name: mukScoreLegacy
+version: 1.0
+author: author
+main: org.sattdev.mukscorelegacy.MukScoreLegacy
+
+softdepend: ["PlaceholderAPI"] #

@@ -1,0 +1,13 @@
+scoreboard:
+  title: "&d&lMukPlugins"
+  lines:
+    - ""
+    - "&7Nome: &e%player_name%"
+    - ""
+    - "&7Cargo: &r%luckperms_primary_group_name%"
+    - ""
+    - "&7Money: &a%vault_eco_balance%"
+    - ""
+    - ""
+    - ""
+    - "&djogar.seuserver.com.br"
